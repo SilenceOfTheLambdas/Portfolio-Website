@@ -1,37 +1,36 @@
 {
   "name": "portfolio-website",
   "description": "My personal portfolio website made using JQuery, SASS, and HTML5.",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sudo-make/Portfolio-Website.git"
+    "url": "git+ssh://git@github.com/SilenceOfTheLambdas/Portfolio-Website.git"
   },
   "keywords": [
     "Portfolio",
     "Website",
-    "sudo-make"
+    "SilenceOfTheLambdas"
   ],
   "author": "Callum-James Smith",
   "license": "MIT",
   "homepage": "https://callum-jamesmith.com",
   "devDependencies": {
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.5",
     "grunt-php": "^3.0.0",
-    "gulp": "^4.0.2",
+    "gulp": "^3.9.1",
     "gulp-connect-php": "^1.0.3",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^5.0.0"
   },
   "dependencies": {
-    "bootstrap": "^4.5.0",
-    "gulp-autoprefixer": "^7.0.1",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "bootstrap": "^5.1.0",
+    "gulp-autoprefixer": "^6.1.0",
+    "jquery": "^3.6.0"
   },
   "bugs": {
-    "url": "https://github.com/sudo-make/Portfolio-Website/issues"
+    "url": "https://github.com/SilenceOfTheLambdas/Portfolio-Website/issues"
   }
 }
