@@ -369,6 +369,10 @@ ul {
   width: 100% !important;
 }
 
+.projects-container {
+  background-color: #1a1a1a;
+}
+
 .heropanel--video {
   font-family: 'Cartograph CF' 'Helvetica', 'Lucida Sans';
   min-height: 500px;
