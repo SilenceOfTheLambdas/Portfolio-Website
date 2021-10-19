@@ -129,12 +129,6 @@ ul {
   background: white;
 }
 
-.nav-link {
-  background: none;
-  color: #e9e9e9 !important;
-  border-radius: 0px;
-}
-
 .card-about {
   height: auto;
   border: none !important;
